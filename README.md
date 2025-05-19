@@ -1,0 +1,1 @@
+# script_truker_faldi
