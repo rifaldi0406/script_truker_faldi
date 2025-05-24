@@ -20,7 +20,8 @@ Skrip ini membutuhkan resource berikut agar dapat berfungsi dengan baik:
 - [`ox_core`](https://github.com/overextended/ox_core)
 - [`ox_inventory`](https://github.com/overextended/ox_inventory)
 - [`ox_lib`](https://github.com/overextended/ox_lib)
-- [`ox_target`] (https://github.com/overextended/ox_target?tab=readme-ov-file)
+- [`ox_target`](https://github.com/overextended/ox_target?tab=readme-ov-file)
+ 
 
 
 ---
